@@ -9,7 +9,6 @@
         <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.3/jquery.mobile-1.4.3.min.css" />
         <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
         <script src="http://code.jquery.com/mobile/1.4.3/jquery.mobile-1.4.3.min.js"></script>
-		
     </head>
     <body>
        
@@ -21,9 +20,10 @@
 
             <div role="main" class="ui-content">
                 <form>
+					<form method="POST" action="enviasenha.asp">
                     <label for="login">Informe sua matrícula para obter a senha:</label>
-                    <input type="submit" name="B1" id="matricula" value="ME ENVIE UMA SENHA">
-                    <button class="ui-btn ui-corner-all">Envie-me a senha</button>
+                    <input type="text" name="matricula" id="matricula" value="">
+                    <button class="ui-btn ui-corner-all">Envie-me uma senha</button>
                 </form>
             </div>
         </div>
