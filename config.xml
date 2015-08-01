@@ -1,6 +1,6 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.gia.portaldoaluno" version="1.0.1">
   <name>PortaldoAlunoIF</name>
-  <description>Hello World sample application that responds to the deviceready event.</description>
+  <description>Portal do Aluno.</description>
   <author href="http://phonegap.com" email="support@phonegap.com">PhoneGap Team</author>
   <content src="index.html"/>
   <preference name="permissions" value="none"/>
