@@ -39,6 +39,7 @@ C:\Users\Gabriel Campos\Desktop\Apps\PortaldoAlunoIF\platforms\android\assets\ww
 C:\Users\Gabriel Campos\Desktop\Apps\PortaldoAlunoIF\platforms\android\assets\www\index.html \
 C:\Users\Gabriel Campos\Desktop\Apps\PortaldoAlunoIF\platforms\android\assets\www\js \
 C:\Users\Gabriel Campos\Desktop\Apps\PortaldoAlunoIF\platforms\android\assets\www\phonegap.js \
+C:\Users\Gabriel Campos\Desktop\Apps\PortaldoAlunoIF\platforms\android\assets\www\plugins \
 C:\Users\Gabriel Campos\Desktop\Apps\PortaldoAlunoIF\platforms\android\assets\www\res \
 C:\Users\Gabriel Campos\Desktop\Apps\PortaldoAlunoIF\platforms\android\assets\www\spec \
 C:\Users\Gabriel Campos\Desktop\Apps\PortaldoAlunoIF\platforms\android\assets\www\spec.html \
@@ -94,8 +95,9 @@ C:\Users\Gabriel Campos\Desktop\Apps\PortaldoAlunoIF\platforms\android\assets\ww
 C:\Users\Gabriel Campos\Desktop\Apps\PortaldoAlunoIF\platforms\android\assets\www\css\index\styles\row-height-8 -- row_height.less \
 C:\Users\Gabriel Campos\Desktop\Apps\PortaldoAlunoIF\platforms\android\assets\www\css\index\styles\row-height-9 -- row_height.less \
 C:\Users\Gabriel Campos\Desktop\Apps\PortaldoAlunoIF\platforms\android\assets\www\css\index\styles\scale-image -- image_sizing_no_scale.less \
-C:\Users\Gabriel Campos\Desktop\Apps\PortaldoAlunoIF\platforms\android\assets\www\img\logo.png \
 C:\Users\Gabriel Campos\Desktop\Apps\PortaldoAlunoIF\platforms\android\assets\www\js\index.js \
+C:\Users\Gabriel Campos\Desktop\Apps\PortaldoAlunoIF\platforms\android\assets\www\plugins\cordova-plugin-whitelist \
+C:\Users\Gabriel Campos\Desktop\Apps\PortaldoAlunoIF\platforms\android\assets\www\plugins\cordova-plugin-whitelist\whitelist.js \
 C:\Users\Gabriel Campos\Desktop\Apps\PortaldoAlunoIF\platforms\android\assets\www\res\icon \
 C:\Users\Gabriel Campos\Desktop\Apps\PortaldoAlunoIF\platforms\android\assets\www\res\screen \
 C:\Users\Gabriel Campos\Desktop\Apps\PortaldoAlunoIF\platforms\android\assets\www\res\icon\android \
@@ -106,10 +108,10 @@ C:\Users\Gabriel Campos\Desktop\Apps\PortaldoAlunoIF\platforms\android\assets\ww
 C:\Users\Gabriel Campos\Desktop\Apps\PortaldoAlunoIF\platforms\android\assets\www\res\icon\tizen \
 C:\Users\Gabriel Campos\Desktop\Apps\PortaldoAlunoIF\platforms\android\assets\www\res\icon\webos \
 C:\Users\Gabriel Campos\Desktop\Apps\PortaldoAlunoIF\platforms\android\assets\www\res\icon\windows-phone \
-C:\Users\Gabriel Campos\Desktop\Apps\PortaldoAlunoIF\platforms\android\assets\www\res\icon\android\icon-36-ldpi.png \
 C:\Users\Gabriel Campos\Desktop\Apps\PortaldoAlunoIF\platforms\android\assets\www\res\icon\android\icon-48-mdpi.png \
 C:\Users\Gabriel Campos\Desktop\Apps\PortaldoAlunoIF\platforms\android\assets\www\res\icon\android\icon-72-hdpi.png \
 C:\Users\Gabriel Campos\Desktop\Apps\PortaldoAlunoIF\platforms\android\assets\www\res\icon\android\icon-96-xhdpi.png \
+C:\Users\Gabriel Campos\Desktop\Apps\PortaldoAlunoIF\platforms\android\assets\www\res\icon\android\icon.png \
 C:\Users\Gabriel Campos\Desktop\Apps\PortaldoAlunoIF\platforms\android\assets\www\res\icon\bada\icon-128.png \
 C:\Users\Gabriel Campos\Desktop\Apps\PortaldoAlunoIF\platforms\android\assets\www\res\icon\bada-wac\icon-48-type5.png \
 C:\Users\Gabriel Campos\Desktop\Apps\PortaldoAlunoIF\platforms\android\assets\www\res\icon\bada-wac\icon-50-type3.png \
